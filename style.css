@@ -45,7 +45,7 @@ body {
   cursor: pointer;
   border-radius: 50%;
   width: 90px;
-  margin-bottom: 24px;
+  margin-bottom: 22px;
 }
 .social_info_box img:hover {
 transform: scale(1.1);
