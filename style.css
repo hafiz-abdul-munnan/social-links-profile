@@ -12,7 +12,7 @@
   --btnBG: #333333;
 }
 h1,
-h4,
+h2,
 p,
 button {
   font-family: "Inter", sans-serif;
@@ -57,7 +57,7 @@ transition: 0.5s all ease-in-out;
   font-weight: bold;
   letter-spacing: -0.24px;
 }
-.social_info_box h4 {
+.social_info_box h2 {
   margin-top: 10px;
   font-size: 0.875rem;
   font-weight: bold;
